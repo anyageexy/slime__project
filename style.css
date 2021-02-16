@@ -244,7 +244,7 @@ h2 {
   text-align: center; }
   .contacts__logo img {
     display: block;
-    max-width: 100% !important;
+    max-width: 300px !important;
     margin: 0 auto;
     object-fit: contain; }
 
